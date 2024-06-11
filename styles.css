@@ -24,4 +24,26 @@
     font-weight: 800;
 }
 
+.recipe-one img {
+    width: 600px;
+    height: 400px;
+}
 
+.recipe-one h4,
+h2,
+ul,
+ol {
+    background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-one h2 {
+    font-size: 24px;
+    font-weight: 800px;
+    background-color: purple;
+}
+
+.recipe-one ul,
+ol {
+    font-size: 18px;
+}
