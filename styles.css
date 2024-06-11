@@ -1,11 +1,27 @@
-#home a {
+.home-page,
+.recipe-one {
+    background-color: black;
+    color: white;
+}
+
+.home-page ul {
+    background-color: crimson;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
+}
+
+.home-page h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+    background-color: blueviolet;
+}
+
+.recipe-one h1 {
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
     font-weight: 800;
 }
 
-#home p,
-h1{
-    background-color: blueviolet;
-    color: white;
-}
+
